@@ -3,7 +3,6 @@ import {
   Newspaper, 
   DollarSign, 
   Users, 
-  TrendingUp 
 } from 'lucide-react';
 import StatCard from '../components/dashboard/StatCard';
 import ArticleChart from '../components/dashboard/ArticleChart';
